@@ -47,6 +47,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC #new comment
+
+# COMMAND ----------
+
 # DBTITLE 1,Setup: Declare defaults and find basic details about the cloud, DBR versions, and available node types
 # MAGIC %run ./tools/setup
 
